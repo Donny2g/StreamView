@@ -22,6 +22,7 @@ There are five properties for you to set up.
 /*
    this view is a container which containing all cells,headerView and footerView
 */
+
 @property (nonatomic, readonly) UIView *contentView;  
 
 Step 2
